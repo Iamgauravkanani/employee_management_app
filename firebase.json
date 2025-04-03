@@ -1,0 +1,9 @@
+{"hosting": {
+    "site": "interview-task-d18ae",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  },"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"interview-task-d18ae","configurations":{"web":"1:346075878440:web:803c78e89149b67b9dd11d"}}}}}}
